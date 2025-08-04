@@ -1,4 +1,4 @@
-# 📊 Exploratory Data Analysis of Internship Opportunities in India
+# 📊 Exploratory Data Analysis of Internships in India
 
 ## 📌 Project Overview
 
