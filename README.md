@@ -54,6 +54,14 @@ To analyze internship opportunities across:
 - **Job Offer Trends**: Most fall between 2–4 LPA; High offers are rare  
 - **Hiring Behavior**: Over 52% are actively hiring; early application helps visibility but not guaranteed selection  
 - **Location vs Pay**: Dubai has highest job offer avg (>9 LPA), followed by Pune, Mumbai
+## Screenshots
+## 📸 Screenshots
+
+![](./screenshots/Picture1.png)
+![](./screenshots/Picture2.png)
+![](./screenshots/Picture3.png)
+![](./screenshots/Picture4.png)
+
 
 ## 🧠 Conclusions
 
