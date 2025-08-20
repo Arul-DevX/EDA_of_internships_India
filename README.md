@@ -92,7 +92,7 @@ This heatmap compares internship roles across different locations:
 
 ![](./screenshots/Picture4.png)
 ##  Want the full breakdown? My project PPT is up on GitHub:
-[Check it out](https://github.com/Arul-DevX/EDA_of_internships_India/blob/main/EDA_project_presentation.pptx)
+[Check it out](https://github.com/Arul-DevX/EDA_of_internships_India/blob/main/EDA_project_presentation.pdf)
 
 ## Conclusions
 
