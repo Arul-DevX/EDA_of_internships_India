@@ -91,6 +91,8 @@ This heatmap compares internship roles across different locations:
 - Metro cities like Mumbai, Bangalore, and Delhi also have significant opportunities.
 
 ![](./screenshots/Picture4.png)
+##  Want the full breakdown? My project PPT is up on GitHub:
+[Check it out](https://github.com/Arul-DevX/EDA_of_internships_India/blob/main/EDA_project_presentation.pptx)
 
 ## Conclusions
 
